@@ -2,8 +2,8 @@
 /**
  * PHP Email Form
  * Version: 3.0
- * Website: https://Revolution Designs.com/php-email-form/
- * Copyright: Revolution Designs.com
+ * Website: https://Revolution Designs.tech/php-email-form/
+ * Copyright: Revolution Designs.tech
  */
 
 if ( version_compare(phpversion(), '5.5.0', '<') ) {
